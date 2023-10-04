@@ -35,8 +35,8 @@ from IPython.display import display, Image
 !pip install roboflow
 
 from roboflow import Roboflow
-rf = Roboflow(api_key="k8tOPUTyE1XjGMPnJbuF")
-project = rf.workspace("site-construction-safety").project("project2-dcq2x")
+rf = Roboflow(api_key="APIKEY")
+project = rf.workspace("Workspacename").project("projectname")
 dataset = project.version(1).download("yolov8")
 
 # Commented out IPython magic to ensure Python compatibility.
