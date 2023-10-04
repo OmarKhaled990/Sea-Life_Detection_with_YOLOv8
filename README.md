@@ -3,7 +3,7 @@
 This project aims to detect various types of sea life including sharks, jellyfish, fish, stingrays, and penguins. The detection of sea life is of significant importance in various domains such as marine biology, environmental conservation, and underwater robotics. Accurate identification and tracking of sea life can lead to better understanding and protection of marine ecosystems.
 
 ## Dataset
-The dataset used in this project contains labeled images of sea life, with the following categories: shark, jellyfish, fish, stingray, and penguin. The dataset is obtained from Roboflow, and can be accessed using the provided API key.
+The dataset used in this project contains labeled images of sea life, with the following categories: shark, jellyfish, fish, stingray, and penguin. The dataset is obtained from Roboflow, and can be accessed using an API key.
 
 ## Algorithm
 The project employs the YOLOv8 algorithm for object detection. YOLO (You Only Look Once) is a real-time object detection system that is both fast and accurate. YOLOv8 is a state-of-the-art version of the YOLO algorithm that has been optimized for various applications.
